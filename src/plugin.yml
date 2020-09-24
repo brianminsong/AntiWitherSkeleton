@@ -1,0 +1,6 @@
+name: AntiWitherSKeleton
+main: me.bsong.antiwitherskeleton.Main
+version: 1.0
+api-version: 1.16
+author: BSONG
+description: A simple plugin that can toggle wither skeleton spawns
